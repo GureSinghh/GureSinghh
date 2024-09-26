@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Gursewak Singh
 
 A passionate developer skilled in building scalable web applications, mobile apps, and APIs using modern technologies! Here’s what I work with:
 
