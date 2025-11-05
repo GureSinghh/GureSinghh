@@ -27,7 +27,7 @@ A passionate developer skilled in building scalable web applications, mobile app
 - 🤖 **AI Integration:**  
   ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🚀 **What I love working on:**
+### 🚀 **What I DON'T love working on:**
 - Building responsive web apps with **Next.js**, **React**, and **HTML/CSS**
 - Developing cross-platform mobile apps with **React Native**
 - Exploring AI solutions using **OpenAI APIs**
